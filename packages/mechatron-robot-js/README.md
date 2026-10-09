@@ -1,7 +1,7 @@
 # mechatron-robot-js
 
 Drop-in replacement for [robot-js](https://github.com/Robot/robot-js), backed
-by [mechatron](https://github.com/p120ph37/mechatron).
+by [mechatron](https://github.com/aaronmeriwether/mechatron).
 
 ## Installation
 
