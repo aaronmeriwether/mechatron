@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.6] - 2026-10-09
+
+### Changed
+- Changed GitHub username
+
 ## [v0.0.5] - 2026-04-14
 
 ### Added
